@@ -12,3 +12,7 @@ public class Practical_8 {
 }
 
 
+output:
+Enter a String := 
+DHRUV
+dhruv 
