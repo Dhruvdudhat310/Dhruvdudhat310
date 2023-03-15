@@ -1,8 +1,9 @@
 import java.util.Scanner;
 
-public class p1 {
+public class p_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        
         System.out.println("Enter Values of A B C D E F");
         float A = sc.nextFloat();
         float B = sc.nextFloat();
