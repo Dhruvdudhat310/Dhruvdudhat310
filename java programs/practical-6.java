@@ -2,10 +2,11 @@
 whether a letter is a vowel or consonant.*/
 
 import java.util.Scanner;
+
 public class p_6 {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
-        System.out.println("enter character:");
+        System.out.println("Enter character:");
         char v=s.next().charAt(0);
         if(v=='a'||v=='A'||v=='e'||v=='E'||v=='i'||v=='I'||v=='o'||v=='O'||v=='u'||v=='U')
         {
@@ -20,6 +21,6 @@ public class p_6 {
 
 
 OUTPUT:
-enter character:
+Enter character:
 A
 vovel
