@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class p_7 {
     public static void main(String[] args) {
+        
         Scanner a=new Scanner(System.in);
         String s=new String();
         System.out.println("Enter string:");
