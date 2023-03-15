@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class prac_5 {
+public class p_5 {
     static void max_no(int a, int b, int c)
     {
         if (a>b)
