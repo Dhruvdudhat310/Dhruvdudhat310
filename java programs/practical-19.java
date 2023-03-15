@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class p_19{
+public class p_19 {
         public static void main(String[] args) {
         Scanner s=null;
         int i,j=0,k,l=0,o,p;
