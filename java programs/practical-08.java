@@ -12,7 +12,7 @@ public class Practical_8 {
 }
 
 
-output:
+OUTPUT:
 Enter a String := 
 DHRUV
 dhruv 
