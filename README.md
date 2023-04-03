@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently pursuing Btech in computer science engineering from **Dr.Kiran and Pallavi Patel Global University ,Vadodara**
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript**
+- 🌱 I’m currently learning **Python,Java**
 
 - 📫 How to reach me **dudhatdhruv786@gmail.com**
 
