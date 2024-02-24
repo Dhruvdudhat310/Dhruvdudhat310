@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhruv Dudhat</h1>
-<h3 align="center"> programmer from India</h3>
+<h3 align="center"> Programmer from India</h3>
 
 
 
 - 🔭 I’m currently pursuing Btech in computer science engineering from **Dr.Kiran and Pallavi Patel Global University ,Vadodara**
 
-- 🌱 I’m currently learning **Python,Java**
+- 🌱 I’m currently learning **Python,ML,AI**
 
 - 📫 How to reach me **dudhatdhruv786@gmail.com**
 
