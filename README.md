@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Dudhat</h1>
-<h3 align="center">A passionate CSE student with a growing interest in machine learning, data science, and software development.</h3>
+<h3 align="center">A passionate CSE student with a growing interest in machine learning, artificial intelligence, and data science.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/happy-cartoon-3d-programmer-hacker_1124848-5458.jpg">
 
@@ -14,7 +14,7 @@
 </p>
 
 - 🎓 I’m currently pursuing BTech in Computer Science and Engineering  
-- 💻 Interested in Python, Machine Learning, and Data Science  
+- 💻 Interested in Python, Machine Learning, Artificial Intelligence and Data Science  
 - 📫 How to reach me **dudhatdhruv786@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
